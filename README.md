@@ -1,5 +1,5 @@
-## cryptoApp
-# Stremlit app for cryptocurrency prices visualisation and comparison
+# cryptoApp
+## Stremlit app for cryptocurrency prices visualisation and comparison
 You can see the results here: 
 https://share.streamlit.io/adrianna40/cryptoapp/main/main.py
 
